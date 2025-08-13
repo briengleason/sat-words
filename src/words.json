@@ -1,0 +1,6002 @@
+[
+  {
+    "w": "abate",
+    "pos": "v.",
+    "d": "to lessen in intensity or amount",
+    "e": "The storm abated by morning."
+  },
+  {
+    "w": "aberration",
+    "pos": "n.",
+    "d": "a deviation from the norm",
+    "e": "The sudden heat wave was an aberration."
+  },
+  {
+    "w": "abhor",
+    "pos": "v.",
+    "d": "to detest or hate",
+    "e": "They abhor cruelty."
+  },
+  {
+    "w": "abstain",
+    "pos": "v.",
+    "d": "to refrain from doing something",
+    "e": "She abstained from voting."
+  },
+  {
+    "w": "accentuate",
+    "pos": "v.",
+    "d": "to make more noticeable",
+    "e": "The lighting accentuated the colors."
+  },
+  {
+    "w": "acrimony",
+    "pos": "n.",
+    "d": "bitterness or ill feeling",
+    "e": "The debate ended in acrimony."
+  },
+  {
+    "w": "adept",
+    "pos": "adj.",
+    "d": "very skilled",
+    "e": "She is adept at mental math."
+  },
+  {
+    "w": "adhere",
+    "pos": "v.",
+    "d": "to stick to or follow",
+    "e": "Adhere to the instructions."
+  },
+  {
+    "w": "adroit",
+    "pos": "adj.",
+    "d": "skillful and clever",
+    "e": "An adroit negotiator closed the deal."
+  },
+  {
+    "w": "aesthetic",
+    "pos": "adj.",
+    "d": "concerned with beauty; artistic",
+    "e": "He prefers a minimalist aesthetic."
+  },
+  {
+    "w": "alacrity",
+    "pos": "n.",
+    "d": "eager and cheerful readiness",
+    "e": "They accepted with alacrity."
+  },
+  {
+    "w": "alleviate",
+    "pos": "v.",
+    "d": "to make less severe",
+    "e": "Painkillers alleviated the headache."
+  },
+  {
+    "w": "allude",
+    "pos": "v.",
+    "d": "to refer indirectly",
+    "e": "The poem alludes to ancient myths."
+  },
+  {
+    "w": "ambiguous",
+    "pos": "adj.",
+    "d": "open to multiple interpretations",
+    "e": "The law is ambiguous."
+  },
+  {
+    "w": "ambivalent",
+    "pos": "adj.",
+    "d": "having mixed feelings",
+    "e": "He felt ambivalent about the offer."
+  },
+  {
+    "w": "amiable",
+    "pos": "adj.",
+    "d": "friendly and pleasant",
+    "e": "An amiable host greeted us."
+  },
+  {
+    "w": "anomaly",
+    "pos": "n.",
+    "d": "something unusual or unexpected",
+    "e": "This result is an anomaly."
+  },
+  {
+    "w": "antagonize",
+    "pos": "v.",
+    "d": "to provoke hostility",
+    "e": "Don’t antagonize your teammates."
+  },
+  {
+    "w": "antithesis",
+    "pos": "n.",
+    "d": "the direct opposite",
+    "e": "Kindness is the antithesis of cruelty."
+  },
+  {
+    "w": "apathetic",
+    "pos": "adj.",
+    "d": "showing little interest or emotion",
+    "e": "Voters were apathetic."
+  },
+  {
+    "w": "aplomb",
+    "pos": "n.",
+    "d": "self-confidence or assurance",
+    "e": "She handled it with aplomb."
+  },
+  {
+    "w": "arbitrary",
+    "pos": "adj.",
+    "d": "based on random choice; unreasonable",
+    "e": "The rule felt arbitrary."
+  },
+  {
+    "w": "arduous",
+    "pos": "adj.",
+    "d": "difficult and tiring",
+    "e": "An arduous hike awaited us."
+  },
+  {
+    "w": "articulate",
+    "pos": "adj./v.",
+    "d": "express clearly; express clearly",
+    "e": "He articulated the plan well."
+  },
+  {
+    "w": "assiduous",
+    "pos": "adj.",
+    "d": "hard-working and persistent",
+    "e": "Assiduous study paid off."
+  },
+  {
+    "w": "astute",
+    "pos": "adj.",
+    "d": "shrewd; perceptive",
+    "e": "An astute investor spotted the trend."
+  },
+  {
+    "w": "audacious",
+    "pos": "adj.",
+    "d": "bold and daring",
+    "e": "An audacious proposal surprised them."
+  },
+  {
+    "w": "augment",
+    "pos": "v.",
+    "d": "to increase or enlarge",
+    "e": "He took a side job to augment income."
+  },
+  {
+    "w": "auspicious",
+    "pos": "adj.",
+    "d": "favorable; promising",
+    "e": "An auspicious beginning."
+  },
+  {
+    "w": "austere",
+    "pos": "adj.",
+    "d": "severe; plain; strict",
+    "e": "An austere lifestyle."
+  },
+  {
+    "w": "avarice",
+    "pos": "n.",
+    "d": "extreme greed",
+    "e": "Avarice corrupted the official."
+  },
+  {
+    "w": "banal",
+    "pos": "adj.",
+    "d": "commonplace; boring",
+    "e": "A banal speech."
+  },
+  {
+    "w": "belie",
+    "pos": "v.",
+    "d": "to give a false impression of",
+    "e": "His smile belied his nerves."
+  },
+  {
+    "w": "belligerent",
+    "pos": "adj.",
+    "d": "hostile and aggressive",
+    "e": "A belligerent tone escalated the fight."
+  },
+  {
+    "w": "benevolent",
+    "pos": "adj.",
+    "d": "kind and charitable",
+    "e": "A benevolent donor funded the lab."
+  },
+  {
+    "w": "bolster",
+    "pos": "v.",
+    "d": "to support or strengthen",
+    "e": "Data bolstered her claim."
+  },
+  {
+    "w": "bombastic",
+    "pos": "adj.",
+    "d": "pompous; overblown",
+    "e": "Bombastic rhetoric bored the audience."
+  },
+  {
+    "w": "brazen",
+    "pos": "adj.",
+    "d": "shamelessly bold",
+    "e": "A brazen attempt to cheat."
+  },
+  {
+    "w": "cacophony",
+    "pos": "n.",
+    "d": "harsh mixture of sounds",
+    "e": "Traffic created a cacophony."
+  },
+  {
+    "w": "candid",
+    "pos": "adj.",
+    "d": "honest and straightforward",
+    "e": "She gave candid feedback."
+  },
+  {
+    "w": "capricious",
+    "pos": "adj.",
+    "d": "impulsive and unpredictable",
+    "e": "Capricious markets swung wildly."
+  },
+  {
+    "w": "cathartic",
+    "pos": "adj.",
+    "d": "emotionally purging",
+    "e": "Writing was cathartic."
+  },
+  {
+    "w": "caustic",
+    "pos": "adj.",
+    "d": "sarcastic and biting",
+    "e": "A caustic remark stung."
+  },
+  {
+    "w": "censure",
+    "pos": "v./n.",
+    "d": "to criticize; official disapproval",
+    "e": "The board censured the member."
+  },
+  {
+    "w": "cogent",
+    "pos": "adj.",
+    "d": "clear and convincing",
+    "e": "A cogent argument carried the day."
+  },
+  {
+    "w": "coherent",
+    "pos": "adj.",
+    "d": "logical and consistent",
+    "e": "A coherent essay."
+  },
+  {
+    "w": "concise",
+    "pos": "adj.",
+    "d": "brief but informative",
+    "e": "Keep answers concise."
+  },
+  {
+    "w": "concur",
+    "pos": "v.",
+    "d": "to agree",
+    "e": "I concur with your assessment."
+  },
+  {
+    "w": "condone",
+    "pos": "v.",
+    "d": "to overlook or allow",
+    "e": "We cannot condone plagiarism."
+  },
+  {
+    "w": "conspicuous",
+    "pos": "adj.",
+    "d": "easily seen; obvious",
+    "e": "A conspicuous red coat."
+  },
+  {
+    "w": "contrite",
+    "pos": "adj.",
+    "d": "remorseful",
+    "e": "He was contrite after the error."
+  },
+  {
+    "w": "copious",
+    "pos": "adj.",
+    "d": "plentiful; abundant",
+    "e": "She took copious notes."
+  },
+  {
+    "w": "credulous",
+    "pos": "adj.",
+    "d": "gullible; too trusting",
+    "e": "A credulous buyer was duped."
+  },
+  {
+    "w": "culpable",
+    "pos": "adj.",
+    "d": "deserving blame",
+    "e": "Both were culpable."
+  },
+  {
+    "w": "cursory",
+    "pos": "adj.",
+    "d": "hasty and superficial",
+    "e": "A cursory review missed mistakes."
+  },
+  {
+    "w": "dearth",
+    "pos": "n.",
+    "d": "a lack or scarcity",
+    "e": "A dearth of evidence."
+  },
+  {
+    "w": "debilitate",
+    "pos": "v.",
+    "d": "to weaken",
+    "e": "The illness debilitated him."
+  },
+  {
+    "w": "deference",
+    "pos": "n.",
+    "d": "respectful submission",
+    "e": "They bowed in deference."
+  },
+  {
+    "w": "delineate",
+    "pos": "v.",
+    "d": "to describe precisely",
+    "e": "The plan delineates roles."
+  },
+  {
+    "w": "deride",
+    "pos": "v.",
+    "d": "to ridicule",
+    "e": "Critics derided the sequel."
+  },
+  {
+    "w": "detrimental",
+    "pos": "adj.",
+    "d": "harmful",
+    "e": "Smoking is detrimental."
+  },
+  {
+    "w": "devoid",
+    "pos": "adj.",
+    "d": "completely lacking",
+    "e": "A tone devoid of emotion."
+  },
+  {
+    "w": "didactic",
+    "pos": "adj.",
+    "d": "instructive; teaching",
+    "e": "A didactic novel."
+  },
+  {
+    "w": "diligent",
+    "pos": "adj.",
+    "d": "hard-working",
+    "e": "Diligent practice matters."
+  },
+  {
+    "w": "disparage",
+    "pos": "v.",
+    "d": "to belittle",
+    "e": "Don’t disparage your peers."
+  },
+  {
+    "w": "discrepancy",
+    "pos": "n.",
+    "d": "difference; inconsistency",
+    "e": "A discrepancy in data."
+  },
+  {
+    "w": "discern",
+    "pos": "v.",
+    "d": "to perceive; detect",
+    "e": "Hard to discern the pattern."
+  },
+  {
+    "w": "disdain",
+    "pos": "n./v.",
+    "d": "scorn; to scorn",
+    "e": "She viewed it with disdain."
+  },
+  {
+    "w": "disparate",
+    "pos": "adj.",
+    "d": "fundamentally different",
+    "e": "Disparate ideas clashed."
+  },
+  {
+    "w": "dispel",
+    "pos": "v.",
+    "d": "to drive away",
+    "e": "The sun dispelled the fog."
+  },
+  {
+    "w": "disseminate",
+    "pos": "v.",
+    "d": "to spread widely",
+    "e": "They disseminated results."
+  },
+  {
+    "w": "dubious",
+    "pos": "adj.",
+    "d": "doubtful; suspect",
+    "e": "A dubious claim."
+  },
+  {
+    "w": "ebullient",
+    "pos": "adj.",
+    "d": "full of energy",
+    "e": "An ebullient crowd cheered."
+  },
+  {
+    "w": "eclectic",
+    "pos": "adj.",
+    "d": "drawn from many sources",
+    "e": "An eclectic playlist."
+  },
+  {
+    "w": "eloquent",
+    "pos": "adj.",
+    "d": "persuasive and expressive",
+    "e": "An eloquent speech."
+  },
+  {
+    "w": "embezzle",
+    "pos": "v.",
+    "d": "to steal entrusted funds",
+    "e": "He embezzled donations."
+  },
+  {
+    "w": "emulate",
+    "pos": "v.",
+    "d": "to imitate to match or surpass",
+    "e": "She emulated her mentor."
+  },
+  {
+    "w": "enervate",
+    "pos": "v.",
+    "d": "to weaken or drain energy",
+    "e": "The heat enervated runners."
+  },
+  {
+    "w": "engender",
+    "pos": "v.",
+    "d": "to cause; give rise to",
+    "e": "Trust engenders cooperation."
+  },
+  {
+    "w": "enthrall",
+    "pos": "v.",
+    "d": "to captivate",
+    "e": "The story enthralled them."
+  },
+  {
+    "w": "ephemeral",
+    "pos": "adj.",
+    "d": "short-lived",
+    "e": "An ephemeral moment."
+  },
+  {
+    "w": "equanimity",
+    "pos": "n.",
+    "d": "calmness; composure",
+    "e": "She kept her equanimity."
+  },
+  {
+    "w": "equivocate",
+    "pos": "v.",
+    "d": "to use ambiguous language",
+    "e": "He equivocated under pressure."
+  },
+  {
+    "w": "erratic",
+    "pos": "adj.",
+    "d": "unpredictable; inconsistent",
+    "e": "Erratic sleep patterns."
+  },
+  {
+    "w": "eschew",
+    "pos": "v.",
+    "d": "to deliberately avoid",
+    "e": "They eschew processed food."
+  },
+  {
+    "w": "esoteric",
+    "pos": "adj.",
+    "d": "understood by few",
+    "e": "An esoteric theory."
+  },
+  {
+    "w": "euphemism",
+    "pos": "n.",
+    "d": "a mild term for a harsh one",
+    "e": "‘Passed away’ is a euphemism."
+  },
+  {
+    "w": "evanescent",
+    "pos": "adj.",
+    "d": "vanishing quickly",
+    "e": "An evanescent rainbow."
+  },
+  {
+    "w": "exacerbate",
+    "pos": "v.",
+    "d": "to make worse",
+    "e": "Noise exacerbated the headache."
+  },
+  {
+    "w": "exacting",
+    "pos": "adj.",
+    "d": "demanding; rigorous",
+    "e": "An exacting standard."
+  },
+  {
+    "w": "excoriate",
+    "pos": "v.",
+    "d": "to harshly criticize",
+    "e": "Reviewers excoriated the film."
+  },
+  {
+    "w": "exculpate",
+    "pos": "v.",
+    "d": "to clear from blame",
+    "e": "DNA evidence exculpated him."
+  },
+  {
+    "w": "exigent",
+    "pos": "adj.",
+    "d": "urgent; pressing",
+    "e": "Exigent circumstances."
+  },
+  {
+    "w": "exonerate",
+    "pos": "v.",
+    "d": "to absolve from blame",
+    "e": "The judge exonerated her."
+  },
+  {
+    "w": "expedite",
+    "pos": "v.",
+    "d": "to speed up",
+    "e": "We expedited shipping."
+  },
+  {
+    "w": "fallacious",
+    "pos": "adj.",
+    "d": "based on a false idea",
+    "e": "A fallacious argument."
+  },
+  {
+    "w": "fastidious",
+    "pos": "adj.",
+    "d": "very attentive to detail",
+    "e": "A fastidious editor."
+  },
+  {
+    "w": "florid",
+    "pos": "adj.",
+    "d": "ornate; flushed",
+    "e": "A florid style."
+  },
+  {
+    "w": "fortuitous",
+    "pos": "adj.",
+    "d": "happening by chance",
+    "e": "A fortuitous meeting."
+  },
+  {
+    "w": "frugal",
+    "pos": "adj.",
+    "d": "economical; thrifty",
+    "e": "A frugal lifestyle."
+  },
+  {
+    "w": "garrulous",
+    "pos": "adj.",
+    "d": "excessively talkative",
+    "e": "A garrulous host."
+  },
+  {
+    "w": "gregarious",
+    "pos": "adj.",
+    "d": "sociable",
+    "e": "A gregarious colleague."
+  },
+  {
+    "w": "hackneyed",
+    "pos": "adj.",
+    "d": "overused; trite",
+    "e": "Hackneyed phrases."
+  },
+  {
+    "w": "harangue",
+    "pos": "n./v.",
+    "d": "a tirade; to lecture angrily",
+    "e": "He launched into a harangue."
+  },
+  {
+    "w": "iconoclast",
+    "pos": "n.",
+    "d": "one who attacks traditions",
+    "e": "An iconoclast challenged norms."
+  },
+  {
+    "w": "idiosyncrasy",
+    "pos": "n.",
+    "d": "a unique trait",
+    "e": "Twisting his ring was an idiosyncrasy."
+  },
+  {
+    "w": "ignominious",
+    "pos": "adj.",
+    "d": "shameful; disgraceful",
+    "e": "An ignominious defeat."
+  },
+  {
+    "w": "impartial",
+    "pos": "adj.",
+    "d": "fair; unbiased",
+    "e": "An impartial judge."
+  },
+  {
+    "w": "impetuous",
+    "pos": "adj.",
+    "d": "rash; acting without thought",
+    "e": "An impetuous choice."
+  },
+  {
+    "w": "implacable",
+    "pos": "adj.",
+    "d": "unable to be appeased",
+    "e": "An implacable foe."
+  },
+  {
+    "w": "impugn",
+    "pos": "v.",
+    "d": "to challenge as false",
+    "e": "They impugned his motives."
+  },
+  {
+    "w": "inane",
+    "pos": "adj.",
+    "d": "silly; senseless",
+    "e": "Ignore inane remarks."
+  },
+  {
+    "w": "incredulous",
+    "pos": "adj.",
+    "d": "skeptical; disbelieving",
+    "e": "She gave an incredulous look."
+  },
+  {
+    "w": "ineffable",
+    "pos": "adj.",
+    "d": "too great for words",
+    "e": "Ineffable beauty."
+  },
+  {
+    "w": "inept",
+    "pos": "adj.",
+    "d": "clumsy; unskilled",
+    "e": "An inept performance."
+  },
+  {
+    "w": "inexorable",
+    "pos": "adj.",
+    "d": "relentless; unavoidable",
+    "e": "Inexorable progress."
+  },
+  {
+    "w": "infinitesimal",
+    "pos": "adj.",
+    "d": "extremely small",
+    "e": "An infinitesimal risk."
+  },
+  {
+    "w": "ingratiate",
+    "pos": "v.",
+    "d": "to gain favor by flattery",
+    "e": "He tried to ingratiate himself."
+  },
+  {
+    "w": "insatiable",
+    "pos": "adj.",
+    "d": "impossible to satisfy",
+    "e": "An insatiable curiosity."
+  },
+  {
+    "w": "insidious",
+    "pos": "adj.",
+    "d": "subtly harmful",
+    "e": "An insidious disease."
+  },
+  {
+    "w": "insolent",
+    "pos": "adj.",
+    "d": "rude and disrespectful",
+    "e": "An insolent remark."
+  },
+  {
+    "w": "intrepid",
+    "pos": "adj.",
+    "d": "fearless; brave",
+    "e": "An intrepid explorer."
+  },
+  {
+    "w": "inundate",
+    "pos": "v.",
+    "d": "to flood; overwhelm",
+    "e": "Inbox inundated with emails."
+  },
+  {
+    "w": "irascible",
+    "pos": "adj.",
+    "d": "easily angered",
+    "e": "An irascible coach."
+  },
+  {
+    "w": "laconic",
+    "pos": "adj.",
+    "d": "using few words",
+    "e": "A laconic reply."
+  },
+  {
+    "w": "lament",
+    "pos": "v.",
+    "d": "to mourn; regret",
+    "e": "They lamented the loss."
+  },
+  {
+    "w": "laud",
+    "pos": "v.",
+    "d": "to praise",
+    "e": "Critics lauded the film."
+  },
+  {
+    "w": "lethargic",
+    "pos": "adj.",
+    "d": "sluggish; apathetic",
+    "e": "Feeling lethargic after lunch."
+  },
+  {
+    "w": "loquacious",
+    "pos": "adj.",
+    "d": "talkative",
+    "e": "A loquacious student."
+  },
+  {
+    "w": "lucid",
+    "pos": "adj.",
+    "d": "clear; easy to understand",
+    "e": "A lucid explanation."
+  },
+  {
+    "w": "magnanimous",
+    "pos": "adj.",
+    "d": "generous and forgiving",
+    "e": "A magnanimous gesture."
+  },
+  {
+    "w": "malleable",
+    "pos": "adj.",
+    "d": "easily shaped or influenced",
+    "e": "Malleable young minds."
+  },
+  {
+    "w": "mercenary",
+    "pos": "adj.",
+    "d": "motivated by money",
+    "e": "A mercenary choice."
+  },
+  {
+    "w": "meticulous",
+    "pos": "adj.",
+    "d": "very careful and precise",
+    "e": "Meticulous notes."
+  },
+  {
+    "w": "mitigate",
+    "pos": "v.",
+    "d": "to lessen or ease",
+    "e": "Policies mitigate risk."
+  },
+  {
+    "w": "morose",
+    "pos": "adj.",
+    "d": "sullen; gloomy",
+    "e": "A morose mood."
+  },
+  {
+    "w": "nefarious",
+    "pos": "adj.",
+    "d": "wicked; criminal",
+    "e": "A nefarious plot."
+  },
+  {
+    "w": "negligent",
+    "pos": "adj.",
+    "d": "careless; neglectful",
+    "e": "Negligent driving."
+  },
+  {
+    "w": "nonchalant",
+    "pos": "adj.",
+    "d": "calm and unconcerned",
+    "e": "A nonchalant shrug."
+  },
+  {
+    "w": "novice",
+    "pos": "n.",
+    "d": "beginner",
+    "e": "A novice coder."
+  },
+  {
+    "w": "obdurate",
+    "pos": "adj.",
+    "d": "stubborn; inflexible",
+    "e": "An obdurate stance."
+  },
+  {
+    "w": "obfuscate",
+    "pos": "v.",
+    "d": "to make unclear",
+    "e": "Jargon obfuscates meaning."
+  },
+  {
+    "w": "obsequious",
+    "pos": "adj.",
+    "d": "overly submissive; fawning",
+    "e": "Obsequious assistants."
+  },
+  {
+    "w": "obsolete",
+    "pos": "adj.",
+    "d": "out of date",
+    "e": "Obsolete technology."
+  },
+  {
+    "w": "odious",
+    "pos": "adj.",
+    "d": "extremely unpleasant",
+    "e": "An odious smell."
+  },
+  {
+    "w": "ostentatious",
+    "pos": "adj.",
+    "d": "showy; pretentious",
+    "e": "An ostentatious display."
+  },
+  {
+    "w": "panacea",
+    "pos": "n.",
+    "d": "a universal remedy",
+    "e": "There’s no panacea."
+  },
+  {
+    "w": "paradigm",
+    "pos": "n.",
+    "d": "a model or pattern",
+    "e": "A new paradigm emerged."
+  },
+  {
+    "w": "parsimonious",
+    "pos": "adj.",
+    "d": "stingy; frugal",
+    "e": "A parsimonious tip."
+  },
+  {
+    "w": "pedantic",
+    "pos": "adj.",
+    "d": "overly concerned with rules",
+    "e": "A pedantic tone."
+  },
+  {
+    "w": "penchant",
+    "pos": "n.",
+    "d": "a strong liking",
+    "e": "A penchant for jazz."
+  },
+  {
+    "w": "perfunctory",
+    "pos": "adj.",
+    "d": "done with minimal effort",
+    "e": "A perfunctory nod."
+  },
+  {
+    "w": "pernicious",
+    "pos": "adj.",
+    "d": "very harmful",
+    "e": "A pernicious weed."
+  },
+  {
+    "w": "perspicacious",
+    "pos": "adj.",
+    "d": "keenly perceptive",
+    "e": "A perspicacious critic."
+  },
+  {
+    "w": "pertinent",
+    "pos": "adj.",
+    "d": "relevant",
+    "e": "Ask pertinent questions."
+  },
+  {
+    "w": "pithy",
+    "pos": "adj.",
+    "d": "concise and forceful",
+    "e": "A pithy remark."
+  },
+  {
+    "w": "placate",
+    "pos": "v.",
+    "d": "to soothe; appease",
+    "e": "They placated the crowd."
+  },
+  {
+    "w": "plastic",
+    "pos": "adj.",
+    "d": "moldable; adaptable",
+    "e": "Plastic neural pathways."
+  },
+  {
+    "w": "platitude",
+    "pos": "n.",
+    "d": "a trite remark",
+    "e": "Speech full of platitudes."
+  },
+  {
+    "w": "plethora",
+    "pos": "n.",
+    "d": "excess; overabundance",
+    "e": "A plethora of options."
+  },
+  {
+    "w": "polarize",
+    "pos": "v.",
+    "d": "to divide sharply",
+    "e": "The issue polarized voters."
+  },
+  {
+    "w": "pragmatic",
+    "pos": "adj.",
+    "d": "practical; realistic",
+    "e": "A pragmatic approach."
+  },
+  {
+    "w": "precocious",
+    "pos": "adj.",
+    "d": "advanced for one’s age",
+    "e": "A precocious child."
+  },
+  {
+    "w": "predilection",
+    "pos": "n.",
+    "d": "a preference",
+    "e": "A predilection for sweets."
+  },
+  {
+    "w": "pretentious",
+    "pos": "adj.",
+    "d": "trying to impress; affected",
+    "e": "A pretentious display."
+  },
+  {
+    "w": "prodigal",
+    "pos": "adj.",
+    "d": "wastefully extravagant",
+    "e": "A prodigal spender."
+  },
+  {
+    "w": "prolific",
+    "pos": "adj.",
+    "d": "highly productive",
+    "e": "A prolific author."
+  },
+  {
+    "w": "prosaic",
+    "pos": "adj.",
+    "d": "dull; unimaginative",
+    "e": "Prosaic prose."
+  },
+  {
+    "w": "prudence",
+    "pos": "n.",
+    "d": "cautiousness; wisdom",
+    "e": "Financial prudence."
+  },
+  {
+    "w": "quandary",
+    "pos": "n.",
+    "d": "a state of uncertainty",
+    "e": "I’m in a quandary."
+  },
+  {
+    "w": "quell",
+    "pos": "v.",
+    "d": "to suppress; put down",
+    "e": "Quell the unrest."
+  },
+  {
+    "w": "querulous",
+    "pos": "adj.",
+    "d": "complaining; whining",
+    "e": "A querulous tone."
+  },
+  {
+    "w": "rancor",
+    "pos": "n.",
+    "d": "bitter resentment",
+    "e": "Old rancor persisted."
+  },
+  {
+    "w": "recalcitrant",
+    "pos": "adj.",
+    "d": "stubbornly disobedient",
+    "e": "A recalcitrant student."
+  },
+  {
+    "w": "refute",
+    "pos": "v.",
+    "d": "to prove wrong",
+    "e": "Data refuted the claim."
+  },
+  {
+    "w": "relegate",
+    "pos": "v.",
+    "d": "to assign to a lower place",
+    "e": "Relegated to the bench."
+  },
+  {
+    "w": "renounce",
+    "pos": "v.",
+    "d": "to formally give up",
+    "e": "She renounced the title."
+  },
+  {
+    "w": "reprove",
+    "pos": "v.",
+    "d": "to reprimand",
+    "e": "She reproved the child."
+  },
+  {
+    "w": "rescind",
+    "pos": "v.",
+    "d": "to revoke or cancel",
+    "e": "They rescinded the offer."
+  },
+  {
+    "w": "resilient",
+    "pos": "adj.",
+    "d": "able to recover quickly",
+    "e": "A resilient community."
+  },
+  {
+    "w": "reticent",
+    "pos": "adj.",
+    "d": "reserved; not talkative",
+    "e": "He stayed reticent."
+  },
+  {
+    "w": "sagacious",
+    "pos": "adj.",
+    "d": "wise; shrewd",
+    "e": "A sagacious decision."
+  },
+  {
+    "w": "sanction",
+    "pos": "v./n.",
+    "d": "to approve; a penalty",
+    "e": "The board sanctioned it."
+  },
+  {
+    "w": "scrupulous",
+    "pos": "adj.",
+    "d": "very careful; ethical",
+    "e": "A scrupulous review."
+  },
+  {
+    "w": "serendipity",
+    "pos": "n.",
+    "d": "fortunate discovery by chance",
+    "e": "It was pure serendipity."
+  },
+  {
+    "w": "spurious",
+    "pos": "adj.",
+    "d": "false; not genuine",
+    "e": "A spurious claim."
+  },
+  {
+    "w": "stoic",
+    "pos": "adj.",
+    "d": "enduring pain without complaint",
+    "e": "A stoic expression."
+  },
+  {
+    "w": "substantiate",
+    "pos": "v.",
+    "d": "to support with evidence",
+    "e": "Can you substantiate it?"
+  },
+  {
+    "w": "superfluous",
+    "pos": "adj.",
+    "d": "unnecessary; excessive",
+    "e": "Cut superfluous words."
+  },
+  {
+    "w": "surreptitious",
+    "pos": "adj.",
+    "d": "secret; stealthy",
+    "e": "A surreptitious glance."
+  },
+  {
+    "w": "tedious",
+    "pos": "adj.",
+    "d": "boring; tiresome",
+    "e": "A tedious lecture."
+  },
+  {
+    "w": "tenacious",
+    "pos": "adj.",
+    "d": "persistent; determined",
+    "e": "A tenacious effort."
+  },
+  {
+    "w": "tirade",
+    "pos": "n.",
+    "d": "a long angry speech",
+    "e": "He launched into a tirade."
+  },
+  {
+    "w": "tranquil",
+    "pos": "adj.",
+    "d": "calm; peaceful",
+    "e": "A tranquil lake."
+  },
+  {
+    "w": "ubiquitous",
+    "pos": "adj.",
+    "d": "found everywhere",
+    "e": "Ubiquitous smartphones."
+  },
+  {
+    "w": "umbrage",
+    "pos": "n.",
+    "d": "offense; resentment",
+    "e": "She took umbrage."
+  },
+  {
+    "w": "upbraid",
+    "pos": "v.",
+    "d": "to scold",
+    "e": "He upbraided the team."
+  },
+  {
+    "w": "usurp",
+    "pos": "v.",
+    "d": "to seize power unlawfully",
+    "e": "They tried to usurp control."
+  },
+  {
+    "w": "vacillate",
+    "pos": "v.",
+    "d": "to waver between choices",
+    "e": "She vacillated for days."
+  },
+  {
+    "w": "venerate",
+    "pos": "v.",
+    "d": "to revere; respect deeply",
+    "e": "They venerated the founder."
+  },
+  {
+    "w": "veracity",
+    "pos": "n.",
+    "d": "truthfulness; accuracy",
+    "e": "We questioned its veracity."
+  },
+  {
+    "w": "verbose",
+    "pos": "adj.",
+    "d": "wordy",
+    "e": "A verbose explanation."
+  },
+  {
+    "w": "vex",
+    "pos": "v.",
+    "d": "to annoy or puzzle",
+    "e": "Unclear rules vex students."
+  },
+  {
+    "w": "vindicate",
+    "pos": "v.",
+    "d": "to clear from blame",
+    "e": "Evidence vindicated her."
+  },
+  {
+    "w": "voracious",
+    "pos": "adj.",
+    "d": "very hungry; eager",
+    "e": "A voracious reader."
+  },
+  {
+    "w": "wane",
+    "pos": "v.",
+    "d": "to decrease; diminish",
+    "e": "Interest began to wane."
+  },
+  {
+    "w": "zealous",
+    "pos": "adj.",
+    "d": "enthusiastically devoted",
+    "e": "Zealous volunteers stayed late."
+  },
+  {
+    "w": "abjure",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abrogate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abscond",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abstemious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "accolade",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acerbic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acquiesce",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acrimonious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "admonish",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adulation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adumbrate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aegis",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "affable",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aggrandize",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amalgamate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ameliorate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amenable",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anachronism",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anathema",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ancillary",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antipathy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apathy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apocryphal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apostate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "appease",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arcane",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ardent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "artifice",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ascetic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "askew",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aspersion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "astringent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "attenuate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aver",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aversion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "axiom",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bane",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bathos",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beneficent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "benign",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bevy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bifurcate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bilk",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blandish",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "boon",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bourgeois",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bowdlerize",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bucolic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "burgeon",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "buttress",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cadence",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cajole",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "calamity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "calumny",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "camaraderie",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "candor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "capacious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "capitulate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "castigate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "catalyst",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chagrin",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chauvinist",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chicanery",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "choleric",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "circumscribe",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "circumspect",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "circumvent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "clandestine",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "clemency",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coalesce",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "commodious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compelling",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "complaisant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compliant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "concede",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conciliatory",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "concoct",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "concomitant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conflagration",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conflate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "congenial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conjecture",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "connoisseur",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consummate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contentious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conundrum",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convivial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corroborate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cosmopolitan",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "countenance",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "craven",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "credence",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cryptic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aback",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abbrogate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aberrant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abet",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abeyance",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abject",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ablution",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abnegate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abnegation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abominate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aboveboard",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abrade",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abridge",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abscission",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "absolve",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abstruse",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "absurd",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abut",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "abysmal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "accede",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "accelerate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acclaim",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "accretion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acidulous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acknowledge",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acme",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acolyte",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "actuate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "acumen",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adamant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adaptable",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adjudicate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adjure",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adjacent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adjunct",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ad-lib",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "admonition",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adulate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adulterate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "advent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adventitious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adversary",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adverse",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "adversity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "advocate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aerie",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "affinity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "afflict",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "affront",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "agenda",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aggravate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aggregate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aggrieve",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aghast",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "agile",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "agitate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "agnostic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "agog",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ailment",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "alchemy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "alcove",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "alias",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "alienate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "allege",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "allegory",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "alloy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "allusion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "allure",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "almighty",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aloof",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "altercation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "altruism",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "altruistic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amass",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ambidextrous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ambience",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ambivalence",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amble",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ambrosial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amend",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amenity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amicable",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amok",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amorphous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amortize",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "amply",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anagram",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "analgesic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "analogous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "analogy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anarchy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "androgynous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anecdote",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anemic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "animosity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "animus",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "annals",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "annex",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "annihilate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "annotate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "annul",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anodyne",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anoint",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anomalous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anomie",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anonymity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anonymous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "answerable",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antagonism",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antarctic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antecedent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antediluvian",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anterior",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anthem",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anthology",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "anthropoid",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antics",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antidote",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antiquated",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "antler",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aperture",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apex",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aphasia",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aphorism",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apogee",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apolitical",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apologist",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apothegm",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apotheosis",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "appall",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apparent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apparition",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "appellation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "append",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "appendage",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apperception",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "appertain",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apposite",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "appraise",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apprise",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "approbation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "appropriate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apropos",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "apt",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aptitude",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aquiline",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arable",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arbiter",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arbitrate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arboreal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "archaism",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "archipelago",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ardor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "argot",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aria",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arid",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aristocracy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "armada",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aromatic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arraign",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arrant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "array",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arrears",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arrogate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "arroyo",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "artful",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "artifact",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "artificial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "artisan",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "artless",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ascendancy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ascendant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ascertain",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ascribe",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aseptic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ashen",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "askance",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "asperity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "asphyxiate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "assail",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "assay",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "assent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "assert",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "assimilate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "assuage",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "astound",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "asunder",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "atavism",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "atheistic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "atone",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "atrocity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "atrophy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "attain",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "attest",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "attire",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "attune",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "audible",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "augury",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "august",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aureole",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "auroral",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "autarky",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "authentic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "authoritarian",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "authoritative",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "autocrat",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "autonomy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "auxiliary",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "averse",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "avert",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "aviary",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "avid",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "avow",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "avuncular",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "awe",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "awkward",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "azure",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "babble",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bacchanalian",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "badger",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "baffle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bailiwick",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "baleful",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "balk",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ballast",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "balm",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "balmy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bandy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "baneful",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "banish",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "banter",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "barb",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bard",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "baroque",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "barrage",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "barrister",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bask",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bastion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bathetic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bawdy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bearing",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beatific",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beatify",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beatitude",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bedizen",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "befuddle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beget",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "begrudge",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beguile",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "behemoth",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beholden",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "behoove",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "belabor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "belated",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beleaguer",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "belittle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bellicose",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bemoan",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bemused",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "benediction",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "benefactor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beneficial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "benefit",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bequeath",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "berate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bereave",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bereft",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "berserk",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beseech",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "beset",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "besmirch",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bestial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bestow",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "betoken",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "betray",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "betroth",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bewilder",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "biased",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bibliophile",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bicker",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "biennial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bigot",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bilious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bivouac",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bizarre",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bland",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blare",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blase",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blasphemy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blatant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bleak",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bleary",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blemish",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blight",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blithe",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bloated",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bludgeon",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bluff",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blunder",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "blurt",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bluster",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bode",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bogus",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "boisterous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "boorish",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "borage",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "boring",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "botch",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bountiful",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bovine",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "boycott",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brackish",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brag",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brazier",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "breach",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "breadth",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brawl",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brawn",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bravado",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bravura",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brevity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brigand",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brindled",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bristle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "broach",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brocade",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brooch",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "browbeat",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brunt",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "brusque",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "buccaneer",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "buffet",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "buffoon",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bulwark",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bumptious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bungle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "buoyant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bureaucracy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "burlesque",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "burnish",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "bustle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "byline",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "byzantine",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caboodle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cabal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cache",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cadaverous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "calamitous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "calculated",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caldron",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caliber",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "calligraphy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "callous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "callow",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cameo",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "candescent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "canine",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "canny",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cantankerous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "canto",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cantor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "canvass",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caprice",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "capsize",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "captious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "captivate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "carapace",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cardinal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "careen",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caret",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caricature",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "carnal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "carnivorous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "carousal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "carping",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "carrion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cartographer",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cascade",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "castigation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "casualty",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cataclysm",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "catapult",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "catarrh",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cataract",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "catastrophe",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "catechism",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "categorical",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cater",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caterpillar",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "catharsis",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "catheter",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caucus",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "caulk",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "causal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cauterize",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cavalcade",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cavalier",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cavil",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cede",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "celerity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "celestial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "celibate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "censor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "censorious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "centurion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "ceremonious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "certitude",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cessation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chafe",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chaff",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chalice",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chameleon",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "champion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chaotic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chapel",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "charisma",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "charlatan",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chary",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chastise",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chaste",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chasten",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "checkered",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cherubic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chide",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "choreography",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chortle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "chronicle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "churlish",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cipher",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "circuitous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "circumlocution",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cistern",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "citadel",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "clairvoyant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "clamber",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "clamor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "clangor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "claustrophobia",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cleave",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cleft",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cliche",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "clientele",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cloister",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "clout",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cloying",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coagulate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coarse",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coax",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coddle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "codify",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coerce",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coeval",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cogitate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cognate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cognitive",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cognizance",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cohere",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cohesion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cohort",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coin",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coincide",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coincidental",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "colander",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "collate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "collateral",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "colloquial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "collusion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "colossal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "comatose",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "combustible",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "comely",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "comestible",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "comity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "commandeer",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "commemorate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "commensurate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "commiserate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "commonplace",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "commonsensical",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "communal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compact",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compendium",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compensate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "competent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compile",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "complacent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "complement",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compliance",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "complicity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compliment",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "component",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "composure",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compound",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "comprehend",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "comprehensive",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compress",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "comprise",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compromise",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compunction",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "compute",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "concave",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conceal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conceit",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conceive",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "concentric",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conciliate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conclave",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "concord",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "concussion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "condescend",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "condign",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "condiment",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "condole",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conducive",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conduit",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "confection",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "confidant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "confident",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "confide",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "confine",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "confiscate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "confound",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "congeal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conglomerate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "congruent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "connivance",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "connote",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conscientious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conscript",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consecrate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consensus",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consequential",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conservatory",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consign",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consistent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consolation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consolidate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consonance",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consort",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conspiracy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "consternation",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "constituent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "constraint",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "construe",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contagion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contaminate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contempt",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contend",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contention",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contest",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "context",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contiguous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "continence",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contingent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "continuum",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contort",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contraband",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contravene",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contrived",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "controvert",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contumacious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "contusion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convalesce",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convene",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "converge",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conversant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "converse",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convert",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convex",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convey",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "conviction",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convoke",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convoluted",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "convulse",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cordial",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corollary",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corporal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corporeal",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corpulent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corpus",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corrode",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corrugated",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corrupt",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "corsair",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coterie",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "counteract",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "counterfeit",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "countermand",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "counterpart",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "countless",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coup",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "couple",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "covenant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "covert",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "covet",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "covetous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cower",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coyness",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "coyly",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "crabby",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "crass",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cravenly",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "craving",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "creed",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "crescendo",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "crestfallen",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "crevice",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "crib",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cringe",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "criteria",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "criterion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cudgel",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "culinary",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cull",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "culminate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "culprit",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "culvert",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cumbersome",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cumulative",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cupidity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "curator",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "curmudgeon",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cursive",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "curtail",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cynic",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cynical",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "cynosure",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "dabble",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "dainty",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "daub",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "daunt",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "dauntless",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "dawdle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "daze",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deadpan",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "debacle",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "debase",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "debauch",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "debility",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "debris",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "debunk",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "debutante",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decadence",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decant",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decapitate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decelerate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deciduous",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decimate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decipher",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "declaim",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "declare",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "declivity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decompose",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decree",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "decrepitude",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deduce",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deduct",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deface",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defame",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "default",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defeatist",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defecate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defiance",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defile",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defilement",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deflect",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defoliate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defraud",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defray",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defrock",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deft",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defunct",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defuse",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "defy",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "degenerate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deign",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deity",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "dejected",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "delete",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deleterious",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "delinquent",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deliquesce",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "delirium",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "delude",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "deluge",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "delusion",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "delve",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "demagogue",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "demean",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "demeanor",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "demented",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "demise",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "demur",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "denigrate",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "denizen",
+    "pos": "",
+    "d": "",
+    "e": ""
+  },
+  {
+    "w": "denote",
+    "pos": "",
+    "d": "",
+    "e": ""
+  }
+]
