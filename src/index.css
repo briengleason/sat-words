@@ -66,3 +66,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* optional: smoother tap target visuals on iOS */
+html, body { -webkit-tap-highlight-color: transparent; }
+
