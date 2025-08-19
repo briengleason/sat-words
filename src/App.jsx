@@ -68,16 +68,16 @@ export default function RandomSATWordApp() {
         <button
           onClick={nextWord}
           className="mt-8 w-full rounded-3xl py-5 text-xl font-semibold bg-slate-900 text-white shadow-lg active:scale-[.98] focus:outline-none focus-visible:ring-2 focus-visible:ring-slate-400"
-          aria-label="Get a new word"
+          aria-label="Get a new player"
         >
-          New word
+          New Player
         </button>
 
         <div className="mt-3 flex items-center justify-center gap-4 text-sm text-slate-500">
           <button onClick={copy} className="underline underline-offset-2 hover:text-slate-700">Copy</button>
           <span>•</span>
           <button onClick={() => setShowDef((s) => !s)} className="underline underline-offset-2 hover:text-slate-700">
-            {showDef ? "Hide definition" : "Show definition"}
+            {showDef ? "Hide details" : "Show details"}
           </button>
         </div>
       </div>
